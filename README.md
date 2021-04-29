@@ -5,5 +5,4 @@
 4. Firstly I'll create tables for each country.
 5. once tables are created, I'll create a mapping which takes source file and load it to the tables.
 6. In order to load it, I'll use a transformation(Route) which routes data depending upon the country expression I'll provide
-7. country='IND', country='USA', country='PHIL' etc
-8. 
+7. country='IND', country='USA', country='PHIL' etc.
